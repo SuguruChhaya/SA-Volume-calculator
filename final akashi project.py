@@ -4,7 +4,6 @@ from PIL import Image, ImageTk
 
 root = Tk()
 
-
 class Sphere():
 
     def framework(self, root):
